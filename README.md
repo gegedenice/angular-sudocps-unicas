@@ -5,6 +5,6 @@ Le fichier est converti à la volée en json avec la librairie js.xslx (/lib)
 
 Pour personnaliser l'app avec vos données :
 
--mettre votre GOOGLE_API_KEY dans index.html
+* mettre votre GOOGLE_API_KEY dans index.html
 
--lier l'appli à vos données : déposer votre fichier data.xslx dans /data. Vous pouvez le nommer autrement ou le déposer ailleurs, mais il faudra modifier le chemin relatif d'accès dans index.html
+* lier l'appli à vos données : déposer votre fichier data.xslx dans /data. Vous pouvez le nommer autrement ou le déposer ailleurs, mais il faudra modifier le chemin relatif d'accès dans index.html
