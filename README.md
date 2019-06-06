@@ -1,6 +1,7 @@
 Mini app de visualisation de notices d'unicas Sudoc basée sur Angular. 
 
-Le dépôt contient un fichier de données d'exemples sous Excel dans /data (données réelles des unicas du Centre Régional PACA/Nice, avril 2018). La méthode d'obtention des données en amont est décrite ici 
+Le dépôt contient un fichier de données d'exemples sous Excel dans /data (données réelles des unicas du Centre Régional PACA/Nice, avril 2018). La méthode d'obtention des données en amont est décrite [dans ce billet](https://play.google.com/store/apps/details?id=fr.unice.checkcb&hl=fr).
+
 Le fichier est converti à la volée en json avec la librairie js.xslx (/lib)
 
 Pour personnaliser l'app avec vos données :
